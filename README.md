@@ -31,3 +31,9 @@
 <br><br>
 <img width="350" height="268" alt="image" src="https://github.com/user-attachments/assets/6dac61f3-e24b-4985-b559-690366dbc112" />
 <img width="350" height="359" alt="image" src="https://github.com/user-attachments/assets/956c8b63-5371-4415-a5dc-ec262ba0a70f" />
+
+---
+### Build the Smallest ESP32 Brushless Rocket Drone
+* https://www.instructables.com/Build-the-Smallest-ESP32-Brushless-Rocket-Drone-ES/
+
+* <img width="1200" height="1296" alt="image" src="https://github.com/user-attachments/assets/04e1924f-39ed-427a-ae9b-5d850c551b70" />

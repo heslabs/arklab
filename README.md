@@ -1,6 +1,8 @@
 # ARKLAB - Rocket Drone
 
 * https://arklab.tw/
+<img width="250" height="88" alt="image" src="https://github.com/user-attachments/assets/7c9eee24-1eee-4b36-946d-325ba7d78fda" />
+
 
 <br><br>
 <img width="300" height="483" alt="image" src="https://github.com/user-attachments/assets/c2cfd7e7-91d6-4be5-b93e-cc558e747566" />

@@ -40,11 +40,7 @@
 ---
 ### Build the Smallest ESP32 Brushless Rocket Drone
 * https://www.instructables.com/Build-the-Smallest-ESP32-Brushless-Rocket-Drone-ES/
-
-<img width="1200" height="1296" alt="image" src="https://github.com/user-attachments/assets/04e1924f-39ed-427a-ae9b-5d850c551b70" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/436e396a-f731-4f1e-be46-28fe56622edd" />
-<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/f4ab7200-b7aa-4fb7-84ad-aa495d29df40" />
-
+ 
 ---
 
 <img width="1200" height="1296" alt="image" src="https://github.com/user-attachments/assets/b6534260-4197-4533-9d7a-4af3e34c0e07" />

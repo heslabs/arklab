@@ -18,6 +18,7 @@
 ---
 ### Himax
 * Grove Vision AI Module V2 [[Wiki]](https://wiki.seeedstudio.com/grove_vision_ai_v2/) [[SeeedSutio]](https://www.seeedstudio.com/Grove-Vision-AI-Module-V2-p-5851.html)
+* 16 USD
 
 <br><br>
 <img width="350" height="415" alt="image" src="https://github.com/user-attachments/assets/907cddc8-fa33-4608-b079-af6e8f66e85e" />

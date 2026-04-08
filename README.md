@@ -17,3 +17,15 @@
 ---
 ### Himax
 * Grove Vision AI Module V2 [[SeedSutio]](https://wiki.seeedstudio.com/grove_vision_ai_v2/)
+
+<br><br>
+<img width="350" height="415" alt="image" src="https://github.com/user-attachments/assets/907cddc8-fa33-4608-b079-af6e8f66e85e" />
+
+---
+### Nuvoton
+* NuMaker-GestureAI-M55M1 [[Nuvoton eStore]](https://direct.nuvoton.com/en/numaker-gestureai-m55m1?search_query=M55M1+Series&results=5)
+* NuMaker-X-M55M1D [[Nuvoton eStore]](https://direct.nuvoton.com/en/numaker-x-m55m1d?search_query=M55M1+Series&results=5)
+  
+<br><br>
+<img width="350" height="268" alt="image" src="https://github.com/user-attachments/assets/6dac61f3-e24b-4985-b559-690366dbc112" />
+<img width="350" height="359" alt="image" src="https://github.com/user-attachments/assets/956c8b63-5371-4415-a5dc-ec262ba0a70f" />
